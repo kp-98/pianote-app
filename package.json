@@ -20,7 +20,7 @@
     "react-native-axios": "^0.17.1",
     "react-native-blur": "^3.2.2",
     "react-native-carousel-view": "^0.5.1",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-svg": "^9.9.9",
     "react-native-svg-transformer": "^0.13.0",
